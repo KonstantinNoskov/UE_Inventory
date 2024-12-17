@@ -77,6 +77,10 @@
 		{
 			"Name": "MacGraphicsSwitching",
 			"Enabled": false
+		},
+		{
+			"Name": "GitSourceControl",
+			"Enabled": false
 		}
 	]
 }
